@@ -1,7 +1,7 @@
 # Gallery-block
 Gutenberg Gallery layout is corrupted in Safari
 In this page : https://www.sylben.net/selections/ , I work with gallery blocks. It displays perfectly well on my computer but it doesn’t work on my Ipad or Imac : the photos within the gallery are of different sizes and they get out the block zone. As a result you can’t see the titles anymore and it all looks messy.
-My understanding is that there is a conflict with Safari, r at least with older versions of Safari since both my Ipad and Imac are rather old...
+My understanding is that there is a conflict with Safari, at least with older versions of Safari since both my Ipad and Imac are rather old...
 I have another page with Gallery blocks and I have the same problem:
 https://www.sylben.net/accueil-option-4/
 FYI, On this website :
