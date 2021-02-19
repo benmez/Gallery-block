@@ -8,7 +8,7 @@ FYI, On this website :
 WP 5.5.3
 theme : Customify, but I tried with theme 2021 and got the same layout problem on imac and Ipad
 
-Anyway, the same problem occurs with other websites using Gutenberg gallery blocks.
+In the end I don't think it has anyting to do with WP version or the theme because the same problem occurs on other websites using Gutenberg gallery blocks.
 
 I was wondering if you can help with that issue
 Thanks in advance for your feedback
